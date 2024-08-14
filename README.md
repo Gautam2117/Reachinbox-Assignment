@@ -57,5 +57,3 @@ This project is a frontend implementation for the ReachInbox application using R
 ## API Setup
 Ensure that the backend API is running, and the base URL is correctly set in `lib/axios.js`.
 
-## Video Walkthrough
-- Link to screen recording: [Loom Video](#)
