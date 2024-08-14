@@ -34,3 +34,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# ReachInbox Assignment
+
+## Overview
+This project is a frontend implementation for the ReachInbox application using React.js, Next.js, TailwindCSS, and Axios.
+
+## Features
+- Google Authentication
+- Onebox with email listing and detailed view
+- Keyboard shortcuts for deletion and reply
+- Dark and Light mode toggling
+- Custom text editor with SAVE and Variables functionality
+- API integration for fetching, deleting, and replying to emails
+
+## Setup Instructions
+1. Clone the repository: `git clone https://github.com/yourusername/reachinbox.git`
+2. Install dependencies: `npm install`
+3. Run the development server: `npm run dev`
+4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
+
+## API Setup
+Ensure that the backend API is running, and the base URL is correctly set in `lib/axios.js`.
+
+## Video Walkthrough
+- Link to screen recording: [Loom Video](#)
