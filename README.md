@@ -6,9 +6,6 @@ First, run the development server:
 
 ```bash
 
-https://github.com/user-attachments/assets/fe3c4289-0532-4139-a2bb-4cb3580ea77c
-
-
 npm run dev
 # or
 yarn dev
@@ -60,4 +57,8 @@ This project is a frontend implementation for the ReachInbox application using R
 
 ## API Setup
 Ensure that the backend API is running, and the base URL is correctly set in `lib/axios.js`.
+
+
+https://github.com/user-attachments/assets/077b562e-a06d-4ab8-85e7-ae98bff93fcc
+
 
